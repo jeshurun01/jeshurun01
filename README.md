@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nasser Kalej @Jeshurun
-- 👀 I’m interested in programation (Python, C/C++, JavaScrip and Java)
+- 👀 I’m interested in programation (Python, C/C++, rust, JavaScrip and Java)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a real project in one of these langages
 - 📫 How to reach me: 
