@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nasser Kalej @Jeshurun
+- 💥 I am an explosive engineer (mining application)
 - 👀 I’m interested in programation (Python, C/C++, rust, JavaScrip and Java)
-- 🌱 I’m currently learning Python
+- 🌱 I have a solid knowledge in Python
 - 💞️ I’m looking to collaborate on a real project in one of these langages
 - 📫 How to reach me: 
       on Discord : Jeshurun Nasser#6353
